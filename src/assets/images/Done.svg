@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="92px" height="92px" viewBox="0 0 92 92" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>3. Form/Medium/Resources/Radio button/Checked</title>
+    <g id="done" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3.-Form/Medium/.Resources/Radio-button/Checked">
+            <circle id="Radio-Button" stroke="#4DCC4E" stroke-width="3" fill-opacity="0.35" fill="#6BDB4D" cx="46" cy="46" r="44.5"/>
+            <g id="17.-Icon/Small/Check" transform="translate(9.200000, 9.200000)" fill="#4DCC4E">
+                <path d="M27.6,49.588 L16.9586667,38.9466667 C15.7626667,37.7506667 13.8306667,37.7506667 12.6346667,38.9466667 C11.4386667,40.1426667 11.4386667,42.0746667 12.6346667,43.2706667 L25.4533333,56.0893333 C26.6493333,57.2853333 28.5813333,57.2853333 29.7773333,56.0893333 L62.2226667,23.644 C63.4186667,22.448 63.4186667,20.516 62.2226667,19.32 C61.0266667,18.124 59.0946667,18.124 57.8986667,19.32 L27.6,49.588 Z" id="check"/>
+            </g>
+        </g>
+    </g>
+</svg>
